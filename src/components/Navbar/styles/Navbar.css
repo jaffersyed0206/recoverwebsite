@@ -1,0 +1,33 @@
+@font-face{
+    font-family: "Intervogue Soft Black";
+    src: url("../../../fonts//intervoguesoftblack.otf") format("opentype");
+}
+
+.navbar-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    height: 20px;
+    font-family: "Intervogue Soft Black";
+}
+
+.recover-image {
+   height: 20%;
+   width: 20%;
+}
+
+.recover-image-container {
+    height: 20%;
+    width: 20%;
+    padding-top: 20px;
+ }
+
+.recover-image-mobile {
+    height: 80%;
+    width: 80%;
+ }
+
+ .text-padding-title {
+     padding-bottom: 5px;
+ }

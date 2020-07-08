@@ -1,0 +1,101 @@
+@font-face{
+    font-family: "Intervogue Soft Black";
+    src: url("./fonts/intervoguesoftblack.otf") format("opentype");
+}
+
+@font-face{
+    font-family: "Intervogue Soft Med";
+    src: url("./fonts/intervoguesoftmed.otf") format("opentype");
+}
+
+
+@font-face{
+    font-family: "Intervogue Soft Reg";
+    src: url("./fonts/intervoguereg.otf") format("opentype");
+}
+
+
+
+.recover-website {
+    background-image: url('./images/background.png');
+
+    /* Full height */
+    height: 100vh;
+    /* Center and scale the image nicely */
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: "Intervogue Soft Black";
+}
+
+.recover-website-mobile {
+    background-image: url('./images/background2.png');
+
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: white;
+    font-family: "Intervogue Soft Black";
+}
+
+.main-content {
+    padding-left: 60px;
+    padding-top: 100px;
+}
+
+.main-content-mobile {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 270px;
+    padding-bottom: 17px;
+}
+
+.iphone-simulator {
+    width: 100%;
+    height: 90%;
+}
+
+.iphone-image {
+    width: 100%;
+    height: 100%;
+}
+
+.main-section-content {
+    padding-top: 400px;
+}
+
+.text-padding {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Intervogue Soft Reg";
+}
+
+.text-more-padding {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: "Intervogue Soft Reg";
+}
+
+.button-container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.recover-button {
+    padding: 20px;
+    border-radius: 30px;
+    border-style: none;
+    font-family: "Intervogue Soft Reg";
+}
+
+.iphone-simulator-mobile{
+    width: 100%;
+    height: 100%;
+}
+
+.iphone-simulator-mobile-container {
+   padding: 20px;
+}
